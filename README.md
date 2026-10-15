@@ -1,0 +1,2 @@
+# Blockburstearnd
+Game about money
